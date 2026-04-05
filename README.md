@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivansh2590/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [1652-defuse-the-bomb](https://github.com/Shivansh2590/Leet-Code/tree/master/1652-defuse-the-bomb) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivansh2590/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1652-defuse-the-bomb](https://github.com/Shivansh2590/Leet-Code/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
