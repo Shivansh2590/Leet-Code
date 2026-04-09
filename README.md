@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivansh2590/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shivansh2590/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0498-diagonal-traverse](https://github.com/Shivansh2590/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh2590/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
@@ -20,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivansh2590/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivansh2590/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Sliding Window
 |  |
