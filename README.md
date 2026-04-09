@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivansh2590/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shivansh2590/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivansh2590/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0498-diagonal-traverse](https://github.com/Shivansh2590/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh2590/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Shivansh2590/Leet-Code/tree/master/1652-defuse-the-bomb) |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Shivansh2590/Leet-Code/tree/master/0498-diagonal-traverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivansh2590/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
