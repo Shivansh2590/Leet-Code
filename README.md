@@ -13,6 +13,7 @@
 | [0498-diagonal-traverse](https://github.com/Shivansh2590/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh2590/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Shivansh2590/Leet-Code/tree/master/1652-defuse-the-bomb) |
+| [2057-smallest-index-with-equal-value](https://github.com/Shivansh2590/Leet-Code/tree/master/2057-smallest-index-with-equal-value) |
 ## String
 |  |
 | ------- |
