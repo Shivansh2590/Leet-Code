@@ -14,11 +14,13 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh2590/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Shivansh2590/Leet-Code/tree/master/1652-defuse-the-bomb) |
 | [2057-smallest-index-with-equal-value](https://github.com/Shivansh2590/Leet-Code/tree/master/2057-smallest-index-with-equal-value) |
+| [2418-sort-the-people](https://github.com/Shivansh2590/Leet-Code/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivansh2590/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shivansh2590/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [2418-sort-the-people](https://github.com/Shivansh2590/Leet-Code/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivansh2590/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Shivansh2590/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shivansh2590/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [2418-sort-the-people](https://github.com/Shivansh2590/Leet-Code/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +57,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shivansh2590/Leet-Code/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/Shivansh2590/Leet-Code/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
