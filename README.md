@@ -20,6 +20,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivansh2590/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shivansh2590/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0771-jewels-and-stones](https://github.com/Shivansh2590/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [2418-sort-the-people](https://github.com/Shivansh2590/Leet-Code/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
@@ -32,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivansh2590/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Shivansh2590/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shivansh2590/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0771-jewels-and-stones](https://github.com/Shivansh2590/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [2418-sort-the-people](https://github.com/Shivansh2590/Leet-Code/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
